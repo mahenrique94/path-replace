@@ -1,5 +1,8 @@
 {
     "author": "Matheus Castiglioni <matheushcastiglioni@gmail.com>",
+    "bin": {
+        "path-replace": "./path-replace.js"
+    },
     "bugs": {
         "url": "https://github.com/mahenrique94/path-replace/issues"
     },
